@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Don Cossack",
+		"unitType": "Scout",
+		"uniqueTo": "Pirates",
+		"replaces": "Scout",
+		"movement": 3,
+		"strength": 5,
+		"cost": 25,
+		"uniques": ["Bond. James Bond", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	/*{
+		"name": "Wayfarer",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 20,
+		"range": 1,
+		"cost": 25,
+		"uniques": ["Unbuildable", "Invisible to non-adjacent units", "[+1] Sight", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},*/
+	{
+		"name": "Suicider",
+		"unitType": "Armored",
+		"uniqueTo": "Pirates",
+		"movement": 2,
+		"strength": 32,
+		"rangedStrength": 32,
+		"range": 1,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"uniques": ["[+400]% Strength <vs cities> <when attacking>", "Can only attack [City] units", 
+			"Self-destructs when attacking"],
+		"attackSound": "shot"
+	}
+]

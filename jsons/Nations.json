@@ -1,0 +1,35 @@
+[
+	
+	{
+		//nations
+		"name": "Pirates",
+		"leaderName": "Stenka Razin",
+		"adjective": ["Piratian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Zaporizhian Sich was a pirate republic in Europe from the 16th through to the 18th century.",
+		"startIntroPart2": "Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Abordage!",
+		"attacked": "Pirates, pirates!",
+		"defeated": "Next time I'll get you",
+		"introduction": "Harr, harr",
+
+		"neutralHello": "Ahoy",
+		"hateHello": "What u want?!",
+
+		"tradeRequest": "Go trading",
+
+		"outerColor": [0,0,0],
+		"innerColor": [182,0,0],
+		"style": "Barbarians",
+		"favoredReligion": "Islam",
+		"uniqueName": "Jolly Roger",
+		"uniques": ["Cities are razed [2] times as fast", "Starts with [Piracy]", "Starts with [Robbery]", "\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Don"]
+
+	}
+
+
+]
