@@ -1,2 +1,2 @@
-# UNCIV-mod: Pirates. They can only steal technologies
-(Only for UNciv Potato version for now)
+# UNCIV-mod: Pirates. They can steal technologies
+(Only for Unciv Potato version for now)
