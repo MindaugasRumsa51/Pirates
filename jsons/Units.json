@@ -3,13 +3,10 @@
 		"name": "Don Cossack",
 		"unitType": "Scout",
 		"uniqueTo": "Pirates",
-		"replaces": "Scout",
-		"movement": 3,
-		"strength": 5,
-		"cost": 25,
+		"movement": 1,
+		"strength": 2,
+		"cost": 50,
 		"uniques": ["Bond. James Bond", "Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost"],
-		"attackSound": "nonmetalhit"
 	},
 	/*{
 		"name": "Wayfarer",
