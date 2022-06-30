@@ -26,7 +26,7 @@
 		"style": "Barbarians",
 		"favoredReligion": "Islam",
 		"uniqueName": "Jolly Roger",
-		"uniques": ["Cities are razed [2] times as fast", "[-60]% [Science]","Starts with [Agriculture]", "\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["Cities are razed [2] times as fast", "[-70]% [Science]","[-70]% [Culture]", "\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Don"]
 
 	}
